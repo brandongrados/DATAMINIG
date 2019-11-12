@@ -1,0 +1,20 @@
+histf_enfermedadpaternal,histf_hermanos,histf_hijos,histf_diabetes,histf_Hipertencionarterial,histf_tuberculosis
+neumonia,2,3,NO,NO,NO
+gingivitis aguda,0,0,NO,NO,NO
+dolor en las rodillas,0,0,NO,NO,NO
+próstata,5,3,NO,NO,NO
+Cáncer de Médula,2,0,NO,SI,NO
+Bronquio Pulmonar,15,0,NO,NO,NO
+NO,0,0,NO,NO,NO
+NO,0,0,NO,NO,NO
+Cancer de Vejiga,3,0,NO,NO,NO
+NA,NA,NA,NA,NA,NA
+NO,0,1,NO,NO,NO
+NO,0,0,NO,NO,NO
+Esquisofrenia y parkinson,0,0,NO,NO,NO
+paro cardiaco,5,0,NO,NO,NO
+NO,0,0,NO,NO,NO
+"infarto, problemas de estomago",1,0,NO,NO,NO
+NA,NA,0,NO,NO,NA
+NA,1,0,NO,NO,NO
+NA,NA,NA,NA,NA,NA
